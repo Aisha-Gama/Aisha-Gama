@@ -1,26 +1,21 @@
 
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aisha Umar Gama</h2>
+<h2 align="left">Hey there! I'm Aisha Umar Gama</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aisha Umar Gama -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 &nbsp;I am a Chemistry graduate 🧪 and data analyst 📊 with a strong passion for artificial intelligence 🤖 and its applications in chemoinformatics.\
-&nbsp;My academic journey has taken me through roles as a researcher 🔬 and teaching assistant 📚, where I’ve developed a deep curiosity for exploring how data and AI can solve complex scientific problems.\
-&nbsp;Beyond the lab and data, I’m a proud advocate of the Sustainable Development Goals (SDGs) 🌍, actively engaging in initiatives that drive positive change. My love for learning 📖 keeps me constantly evolving,\ 
-&nbsp;and when I’m not immersed in data or research, you’ll find me volunteering 💪, baking 🍰, traveling ✈️, or spending time with my cats 🐱.\
+&nbsp;My academic journey has taken me through roles as a research 🔬 and teaching assistant 📚, where I’ve developed a deep curiosity for exploring how data and AI can solve complex scientific problems.\
+&nbsp;Beyond the lab and data, I’m a proud advocate of the Sustainable Development Goals (SDGs) 🌍, actively engaging in initiatives that drive positive change.\
+&nbsp;My love for learning 📖 keeps me constantly evolving, and when I’m not immersed in data or research, you’ll find me volunteering 💪, baking 🍰, traveling ✈️, or spending time with my cats 🐱
 
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
@@ -28,7 +23,7 @@
 
 ### 🗃 &nbsp;Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-%234ea4b.svg?style=for-the-badge&logo=Mysql&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/excel-%2334192.svg?style=for-the-badge&logo=microsoftexcel&logoColor=emerald)&nbsp;
 
@@ -62,21 +57,17 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a   target="_blank" href="https://www.linkedin.com/in/">
+	 
+  <a   target="_blank" href="https://www.linkedin.com/in/aisha-umar-a79667298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" >
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="">
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/Aisha-Gama">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
   </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://">
+  <a style="margin-left: 10px;" target="_blank" href="aishagama479@gmail.com">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;">
   </a>
-		<a style="margin-left: 10px;" target="_blank" href="">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
-
 </p>
 
 
