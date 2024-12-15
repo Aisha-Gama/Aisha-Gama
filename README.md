@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-&nbsp;I am a Chemistry graduate 🧪 and data analyst 📊 with a strong passion for artificial intelligence 🤖 and its applications in chemoinformatics.\
+&nbsp;I am a Chemistry graduate 🧪 and data analyst 📊 with a strong passion for AI & ML 🤖 and its applications in chemistry.\
 &nbsp;My academic journey has taken me through roles as a research 🔬 and teaching assistant 📚, where I’ve developed a deep curiosity for exploring how data and AI can solve complex scientific problems.\
 &nbsp;Beyond the lab and data, I’m a proud advocate of the Sustainable Development Goals (SDGs) 🌍, actively engaging in initiatives that drive positive change.\
 &nbsp;My love for learning 📖 keeps me constantly evolving, and when I’m not immersed in data or research, you’ll find me volunteering 💪, baking 🍰, traveling ✈️, or spending time with my cats 🐱
@@ -58,7 +58,7 @@
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 
-  <a   target="_blank" href="https://www.linkedin.com/in/aisha-umar-a79667298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <a   target="_blank" href="https://www.linkedin.com/in/aisha-umar-gama?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" >
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://github.com/Aisha-Gama">
